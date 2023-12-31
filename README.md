@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Kumar Yadav</h1>
-<h3 align="center">A passionate Artificial Intelligence & Machine Learning Engineer from India</h3>
+<h3 align="center">A passionate AI/ML - Computer Vision Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-k-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh-k-yadav" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akhileshk_yadav" target="blank"><img src="https://img.shields.io/twitter/follow/akhileshk_yadav?logo=twitter&style=for-the-badge" alt="akhileshk_yadav" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision and NLP related projects.**
+- 🔭 I’m currently working on **Computer Vision related projects.**
 
-- 👯 I’m looking to collaborate on **projects related to CV, NLP and RL.**
+- 👯 I’m looking to collaborate on **projects related to CV.**
 
 - 🤝 I’m looking for help with **Networking and Opportunities to grow more.**
 
